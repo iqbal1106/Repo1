@@ -9,7 +9,7 @@ class B(A):
 
 class C(A):
     def met(self):
-       print("now this is humty dumty")
+       print("iqbal1106")
 
 class D(C, B):
    ''' def met(self):
